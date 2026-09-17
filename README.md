@@ -17,9 +17,9 @@ I'm an aspiring software developer focused on building real-world applications a
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages  
-- JavaScript  
+- c++ 
 - Python  
-- Java (Basics)  
+- Java script
 
 ### 🌐 Web Development  
 - HTML, CSS  
