@@ -53,7 +53,7 @@ I'm an aspiring software developer focused on building real-world applications a
 ## 🌐 Connect With Me  
 
 - 📧 Email: your-nishadmohmd7@gmail.com  
-- 💼 LinkedIn: add-your-link  
+- 💼 LinkedIn:https://www.linkedin.com/in/nishad-n-019264290
 
 ---
 
