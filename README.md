@@ -52,7 +52,7 @@ I'm an aspiring software developer focused on building real-world applications a
 
 ## 🌐 Connect With Me  
 
-- 📧 Email: your-email@example.com  
+- 📧 Email: your-nishadmohmd7@gmail.com  
 - 💼 LinkedIn: add-your-link  
 
 ---
